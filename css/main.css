@@ -4,8 +4,7 @@ html {
 }
 
 .content {
-  background:
-  linear-gradient(to top, #ff9500, #ff5e3a);
+  background-image: linear-gradient(to top, #ff9500, #ff5e3a);
 }
 
 .btn-ghost {
