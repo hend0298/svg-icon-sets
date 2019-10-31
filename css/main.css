@@ -1,3 +1,14 @@
 html {
+  color: #fff;
   font-family: Overpass, sans-serif;
+}
+
+.content {
+  background:
+  linear-gradient(to top, #ff9500, #ff5e3a);
+}
+
+.btn-ghost {
+  color: rgba(255, 255, 255, 1);
+  border-color: rgba(255, 255, 255, 1);
 }
