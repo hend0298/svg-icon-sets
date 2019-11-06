@@ -4,10 +4,20 @@ html {
 }
 
 .content {
-  background-image: linear-gradient(to top, #ff9500, #ff5e3a);
+  background-image: linear-gradient(to top, #ff5e3a, #ff9500);
 }
 
 .btn-ghost {
   color: rgba(255, 255, 255, 1);
   border-color: rgba(255, 255, 255, 1);
+}
+
+.border-bottom {
+  border-bottom: solid 3px #ff9500;
+}
+
+.btn:hover {
+  background-color: #fff;
+  border-color: #fff;
+  color: #ff5e3a;
 }
