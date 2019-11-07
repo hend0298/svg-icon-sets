@@ -21,3 +21,13 @@ html {
   border-color: #fff;
   color: #ff5e3a;
 }
+
+@media only screen and (min-width: 60em) {
+
+  .border-bottom {
+    border-bottom: none;
+    border-right: solid 3px #ff9500;
+  }
+
+
+}
